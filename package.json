@@ -1,0 +1,28 @@
+{
+  "name": "keycard-status",
+  "homepage": "https://keycard.status.im/",
+  "version": "1.0.0",
+  "description": "React Native library to interact with Status Keycard using NFC connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Novotochinov",
+  "license": "ISC",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadRutvi/keycard-status.git"
+  },
+  "keywords": [
+    "Keycard",
+    "React",
+    "Native",
+    "Library"
+  ],
+  "bugs": {
+    "url": "https://github.com/RadRutvi/keycard-status/issues"
+  }
+}
